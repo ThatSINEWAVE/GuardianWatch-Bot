@@ -1,4 +1,4 @@
-# Discord Member Scanner
+# GuardianWatch - Discord Member Scanner
 
 Welcome to the Discord Member Scanner repository! This bot is your go-to tool for gathering and organizing information about Discord server members efficiently. Written entirely in Python and leveraging the power of Discord's Bot API along with the Google Sheets API, this bot offers versatility and ease of use across its three distinct modes: gsheets-mode, csv-mode, and combined-mode.
 
