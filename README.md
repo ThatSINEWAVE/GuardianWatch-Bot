@@ -9,6 +9,8 @@ CSV Mode: Utilizes the /inspect command to gather user information on-demand and
 Combined Mode: Merges the functionalities of GSheets and CSV modes, allowing the /inspect command to target either output format based on provided arguments (csv or gsheets).
 Each mode operates as a separate Python file, giving you the flexibility to choose the version that best suits your needs.
 
+## ☕ [Support my work on Ko-Fi](https://ko-fi.com/thatsinewave)
+
 ## Information Collected
 
 Currently, the bot collects the following information about each user:
